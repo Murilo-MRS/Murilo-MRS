@@ -1,6 +1,6 @@
 ## Oi, eu sou o Murilo 👋
 
-- 🌱 Estudando javascript, HATML, CSS, ReactJS
+- 🌱 Estudando javascript, HTML, CSS, ReactJS
 <div align="center">
   <a href="https://github.com/Murilo-MRS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murilo-MRS&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
