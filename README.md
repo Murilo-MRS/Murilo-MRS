@@ -2,9 +2,11 @@
 
 - 🌱 Estudando desenvolvimento web na Trybe
 <div align="center">
+  <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Murilo-MRS&theme=darkhub" alt="Murilo-MRS" /></a> </p>
   <a href="https://github.com/Murilo-MRS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murilo-MRS&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murilo-MRS&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/><br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-MRS&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <p><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Murilo-MRS&theme=highcontrast&date_format=j%20M%5B%20Y%5D&fire=DD2727)](https://git.io/streak-stats" alt="Murilo-MRS" /></p>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Murilo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
