@@ -8,13 +8,19 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-MRS&layout=compact&langs_count=7&theme=chartreuse-dark"/>
   <p><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Murilo-MRS&theme=highcontrast&date_format=j%20M%5B%20Y%5D&fire=DD2727)](https://git.io/streak-stats" alt="Murilo-MRS" /></p>
 </div>
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline-block"><br>
+<h3>Front-end</h3>
   <img align="center" alt="Murilo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Murilo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Murilo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Murilo-Reactjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Murilo-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
   <img align="center" alt="Murilo-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
-  <img align="center" alt="Murilo-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+</div>
+<div align="center" style="display: inline-block"><br>
+<h3>Testes</h3>
+  <img align="center" alt="Murilo-RTL" height="30" width="40" src="https://testing-library.com/img/octopus-128x128.png">
+  <img align="center" alt="Murilo-jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
 </div>
 </div>
   
