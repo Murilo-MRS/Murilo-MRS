@@ -1,12 +1,14 @@
-## Oi, eu sou o Murilo 👋
+<img src="https://rishavanand.github.io/static/images/greetings.gif" alt="gif-greetings"/>
+
+<h2 align="center">I'm Murilo 👋, a full-stack developer 👨‍💻 🚀</h2>
 
 - 🌱 Estudando desenvolvimento web na Trybe
+
 <div align="center">
   <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Murilo-MRS&theme=darkhub" alt="Murilo-MRS" /></a> </p>
-  <a href="https://github.com/Murilo-MRS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murilo-MRS&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/><br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murilo-MRS&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-MRS&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-  <p><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Murilo-MRS&theme=highcontrast&date_format=j%20M%5B%20Y%5D&fire=DD2727)](https://git.io/streak-stats" alt="Murilo-MRS" /></p>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Murilo-MRS&theme=highcontrast&date_format=j%20M%5B%20Y%5D&fire=DD2727)](https://git.io/streak-stats" alt="Murilo-MRS" /><br/>
 </div>
 
 <div align="center" style="display: inline-block"><br>
@@ -27,7 +29,7 @@
 </div>
 </td></tr></table>  
 </div>
-  
+
   ##
  
 <div> 
