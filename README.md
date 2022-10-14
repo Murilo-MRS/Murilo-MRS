@@ -20,6 +20,7 @@
   <img align="center" alt="Murilo-Reactjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Murilo-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
   <img align="center" alt="Murilo-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
+   <img align="center" alt="Murilo-Bulma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
 </div>
 </td><td valign="top" width="49%">
 <h3>Testes</h3>
