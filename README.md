@@ -6,11 +6,10 @@
 
 <div align="center">
   <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Murilo-MRS&theme=darkhub" alt="Murilo-MRS" /></a> </p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murilo-MRS&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-MRS&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Murilo-MRS&theme=highcontrast&date_format=j%20M%5B%20Y%5D&fire=DD2727)](https://git.io/streak-stats)" alt="Murilo-MRS" /><br/>
-  
-  [![Murilo's github activity graph](https://activity-graph.herokuapp.com/graph?username=Murilo-MRS&bg_color=000000&color=FFFFFF&line=ABD200&point=FFFFFF&area=true&radius=14&hide_border=true)](https://github.com/Murilo-MRS/github-readme-activity-graph)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murilo-MRS&show_icons=true&theme=chartreuse-dark&hide_border=true&card_width=125&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Murilo-MRS&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727" alt="Murilo-MRS" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-MRS&layout=compact&card_width=100&hide_border=true&langs_count=7&theme=chartreuse-dark"/>
+  <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=Murilo-MRS&bg_color=000000&color=6ad600&line=fb8c00&point=dd2727&area=true&radius=14&hide_border=true" alt="Murilo-MRS" />
   
 </div>
 
@@ -33,13 +32,6 @@
 </div>
 </td></tr></table>  
 </div>
-
-  ##
-  
- <div align="center">
- 
- ![QUOTES](https://quotier.vercel.app/quote)
- </div>
  
   ##
  
