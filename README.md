@@ -5,7 +5,7 @@
 - 🌱 Estudando desenvolvimento web na Trybe
 
 <div align="center">
-  <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Murilo-MRS&theme=darkhub" alt="Murilo-MRS" /></a> </p>
+  <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Murilo-MRS&no-frame=true&theme=matrix" alt="Murilo-MRS" /></a> </p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murilo-MRS&show_icons=true&theme=chartreuse-dark&hide_border=true&card_width=125&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Murilo-MRS&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727" alt="Murilo-MRS" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-MRS&layout=compact&card_width=100&hide_border=true&langs_count=7&theme=chartreuse-dark"/>
@@ -35,10 +35,11 @@
  
   ##
  
-<div> 
-  <a href="https://www.linkedin.com/in/murilo-rodrigues-santana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/murilo-rodrigues-santana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
   ![Snake animation](https://github.com/Murilo-MRS/Murilo-MRS/blob/output/github-contribution-grid-snake.svg)
+    
 </div>
 
 
