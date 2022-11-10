@@ -1,8 +1,8 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" alt="gif-greetings"/>
+<h1 align="center">I'm Murilo 👋, a full-stack developer 👨‍💻 🚀</h1>
 
-<h2 align="center">I'm Murilo 👋, a full-stack developer 👨‍💻 🚀</h2>
-
-- 🌱 Estudando desenvolvimento web na Trybe
+- 👌 I'm studying at [Trybe](https://www.betrybe.com/);
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/murilo-rodrigues-santana/);
+- 🌱 You can see my tech stack below, it's basically MERN with extras;
 
 <div align="center">
   <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Murilo-MRS&no-frame=true&theme=matrix" alt="Murilo-MRS" /></a> </p>
@@ -25,7 +25,7 @@
    <img align="center" alt="Murilo-Bulma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
 </div>
 </td><td valign="top" width="49%">
-<h3>Testes</h3>
+<h3>Tests</h3>
 <div align="center" style="display: inline-block"><br>
   <img align="center" alt="Murilo-RTL" height="30" width="40" src="https://testing-library.com/img/octopus-128x128.png">
   <img align="center" alt="Murilo-jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
