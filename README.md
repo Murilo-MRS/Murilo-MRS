@@ -5,7 +5,6 @@
 - 🌱 You can see my tech stack below, it's basically MERN with extras;
 
 <div align="center">
-  <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Murilo-MRS&no-frame=true&theme=matrix" alt="Murilo-MRS" /></a> </p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murilo-MRS&show_icons=true&theme=chartreuse-dark&hide_border=true&card_width=125&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Murilo-MRS&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727" alt="Murilo-MRS" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-MRS&layout=compact&card_width=100&hide_border=true&langs_count=7&theme=chartreuse-dark"/>
@@ -14,24 +13,34 @@
 </div>
 
 <div align="center" style="display: inline-block"><br>
-<table><tr><td valign="top" width="49%"> 
+<table><tr><td valign="top" width="30%"> 
 <h3>Front-end</h3>
-  <img align="center" alt="Murilo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Murilo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Murilo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Murilo-Reactjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Murilo-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
-  <img align="center" alt="Murilo-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
-   <img align="center" alt="Murilo-Bulma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
+  <img align="center" alt="Murilo-Js" width="30%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Murilo-HTML" width="30%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Murilo-CSS" width="30%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Murilo-Reactjs" width="30%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Murilo-Redux" width="30%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+  <img align="center" alt="Murilo-Bootstrap" width="30%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
+   <img align="center" alt="Murilo-Bulma" width="30%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
 </div>
-</td><td valign="top" width="49%">
+</td><td valign="top" width="30%">
 <h3>Tests</h3>
 <div align="center" style="display: inline-block"><br>
-  <img align="center" alt="Murilo-RTL" height="30" width="40" src="https://testing-library.com/img/octopus-128x128.png">
-  <img align="center" alt="Murilo-jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+  <img align="center" alt="Murilo-RTL" width="30%" src="https://testing-library.com/img/octopus-128x128.png">
+  <img align="center" alt="Murilo-jest" width="30%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
 </div>
-</td></tr></table>  
+</td><td valign="top" width="30%">
+<h3>Back-end</h3>
+<div align="center" style="display: inline-block"><br>
+  <img align="center" alt="Murilo-express" width="30%" src="https://skillicons.dev/icons?i=express&theme=light">
+  <img align="center" alt="Murilo-docker" width="30%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="Murilo-nodejs" width="30%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Murilo-mysql" width="30%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
+</td></tr></table>
+</div>
+ 
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Murilo-MRS&no-frame=true&theme=matrix" alt="Murilo-MRS" /></a> </p>
  
   ##
  
