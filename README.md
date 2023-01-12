@@ -1,4 +1,4 @@
-<h1 align="center">I'm Murilo 👋, a full-stack developer 👨‍💻 🚀</h1>
+<h1 align="center">I'm Murilo 👋, a full-stack developer 👨‍💻 </h1>
 
 - 👌 I'm studying at [Trybe](https://www.betrybe.com/);
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/murilo-rodrigues-santana/);
