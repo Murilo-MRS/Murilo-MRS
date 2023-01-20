@@ -14,28 +14,29 @@
 <div align="center" style="display: inline-block"><br>
 <table><tr><td valign="top" width="30%"> 
 <h3>Front-end</h3>
-  <img align="center" alt="Murilo-Js" width="30%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Murilo-HTML" width="30%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Murilo-CSS" width="30%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Murilo-Reactjs" width="30%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Murilo-Redux" width="30%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
-  <img align="center" alt="Murilo-Bootstrap" width="30%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
-   <img align="center" alt="Murilo-Bulma" width="30%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
+  <img align="center" title="Js" width="30%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" title="HTML" width="30%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" title="CSS" width="30%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" title="Reactjs" width="30%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" title="Redux" width="30%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+  <img align="center" title="Bootstrap" width="30%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
+  <img align="center" title="Bulma" width="30%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
 </div>
 </td><td valign="top" width="30%">
 <h3>Tests</h3>
 <div align="center" style="display: inline-block"><br>
-  <img align="center" alt="Murilo-RTL" width="30%" src="https://testing-library.com/img/octopus-128x128.png">
-  <img align="center" alt="Murilo-jest" width="30%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-  <img align="center" alt="Murilo-mocha" width="30%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg">
+  <img align="center" title="RTL" width="30%" src="https://testing-library.com/img/octopus-128x128.png">
+  <img align="center" title="jest" width="30%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+  <img align="center" title="mocha" width="30%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg">
 </div>
 </td><td valign="top" width="30%">
 <h3>Back-end</h3>
 <div align="center" style="display: inline-block"><br>
-  <img align="center" alt="Murilo-express" width="30%" src="https://skillicons.dev/icons?i=express&theme=light">
-  <img align="center" alt="Murilo-docker" width="30%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="Murilo-nodejs" width="30%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Murilo-mysql" width="30%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" title="express" width="30%" src="https://skillicons.dev/icons?i=express&theme=light">
+  <img align="center" title="docker" width="30%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+  <img align="center" title="nodejs" width="30%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" title="mysql" width="30%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" title="sequelize" width="30%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
 </div>
 </td></tr></table>
 </div>
