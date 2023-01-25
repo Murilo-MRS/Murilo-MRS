@@ -5,10 +5,10 @@
 - 🌱 You can see my tech stack below, it's basically MERN with extras;
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murilo-MRS&show_icons=true&theme=chartreuse-dark&hide_border=true&card_width=100&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Murilo-MRS&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727" alt="Murilo-MRS" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-MRS&layout=compact&card_width=100&hide_border=true&langs_count=7&theme=chartreuse-dark"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Murilo-MRS&show_icons=true&theme=chartreuse-dark&hide_border=true&card_width=100&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-streak-stats.herokuapp.com?user=Murilo-MRS&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727" alt="Murilo-MRS" />
   <img height="180em" src="https://github-readme-activity-graph.cyclic.app/graph?username=Murilo-MRS&bg_color=000000&color=6ad600&line=fb8c00&point=dd2727&area=true&radius=14&hide_border=true" alt="Murilo-MRS" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-MRS&layout=compact&card_width=120&hide_border=true&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
 <div align="center" style="display: inline-block"><br>
