@@ -3,7 +3,7 @@
 
 - 👌 I'm studying at [Trybe](https://www.betrybe.com/);
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/murilo-rodrigues-santana/);
-- 🌱 You can see my tech stack below, it's basically MERN with extras;
+- 🌱 You can see my tech stack below, it's basically MERN;
 
 <div align="center">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Murilo-MRS&show_icons=true&theme=chartreuse-dark&hide_border=true&card_width=100&include_all_commits=true&count_private=true"/>
