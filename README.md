@@ -2,7 +2,7 @@
   <img title="RTL" width="36px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">, full-stack developer 👨‍💻 </h1>
 
 - 👌 I'm studying at [Trybe](https://www.betrybe.com/);
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/murilo-rodrigues-santana/);
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/murilo-rodrigues-santana/) or [Gmail](murilosantana1993@gmail.com);
 - 🌱 You can see my tech stack below, it's basically MERN;
 
 <div align="center">
