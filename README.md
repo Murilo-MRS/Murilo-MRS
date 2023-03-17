@@ -1,9 +1,11 @@
 <h1 align="center">Hello, I'm Murilo
   <img title="RTL" width="36px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">, full-stack developer 👨‍💻 </h1>
 
-- 👌 I'm studying at [Trybe](https://www.betrybe.com/);
+- 👌 I'm studying web development at [Trybe](https://www.betrybe.com/);
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/murilo-rodrigues-santana/);
+- 👨‍💻 All of my projects are available at: [Portfolio](murilo-dev.vercel.app/);
 - 🌱 You can see my tech stack below, it's basically MERN;
+- 🔭 I seek to apply my skills and knowledge to create innovative solutions and impactful software applications.
 
 <div align="center">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Murilo-MRS&show_icons=true&theme=chartreuse-dark&hide_border=true&card_width=100&include_all_commits=true&count_private=true"/>
