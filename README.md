@@ -7,7 +7,7 @@
 - 🌱 You can see my tech stack below, it's basically MERN;
 - 🔭 I seek to apply my skills and knowledge to create innovative solutions and impactful software applications.
 
-<br/><br/>
+<br/>
 
  <h1 align="center">My Stats</h1>
 
@@ -21,7 +21,7 @@
 
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Murilo-MRS&no-frame=true&theme=matrix" alt="Murilo-MRS" /></a> </p>
 
- <br/><br/>
+ <br/>
 
  <h1 align="center">My skills</h1>
  
@@ -66,7 +66,7 @@
 </table>
 </div>
  
- <br/><br/>
+ <br/>
  
  <h1 align="center">Reach me</h1>
  
