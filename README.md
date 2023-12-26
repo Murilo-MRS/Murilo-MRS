@@ -12,7 +12,7 @@
  <h1 align="center">My Stats</h1>
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats-murilo-mrs.vercel.app/api?username=Murilo-MRS&show_icons=true&theme=chartreuse-dark&hide_border=true&card_width=100&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats-murilo-mrs.vercel.app/api?username=Murilo-MRS&show_icons=true&theme=chartreuse-dark&hide_border=true&card_width=100&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats-murilo-mrs.vercel.app/api/top-langs/?username=Murilo-MRS&layout=compact&card_width=120&hide_border=true&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
