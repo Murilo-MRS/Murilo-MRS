@@ -3,7 +3,7 @@
 - 🤔 I'm exploring new technologies and developing software solutions.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/murilo-rodrigues-santana/);
 - 👨‍💻 My portfolio are available at: [Portfolio](murilo-dev.vercel.app/);
-- 🌱 You can see my tech stack below, it's basically MERN;
+- 🌱 You can see my tech stack below, it's basically MERN and Java with Spring Boot;
 - 🔭 I seek to apply my skills and knowledge to create innovative solutions and impactful software applications.
 
 <br/>
