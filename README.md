@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Murilo 👋, full-stack developer 👨‍💻 </h1>
+<h1 align="center">Hello, I'm Murilo 👋, Software Engineer 👨‍💻 </h1>
 
 - 🤔 I'm exploring new technologies and developing software solutions.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/murilo-rodrigues-santana/);
